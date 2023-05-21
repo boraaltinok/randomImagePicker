@@ -13,7 +13,7 @@ class FolderImageController extends GetxController {
       final folder = Directory(result);
       final imageExtensions = ['.jpg', '.jpeg', '.png'];
 
-      print("result ${folder}");
+      print("resuladt ${folder}");
 
 
       final files = folder
